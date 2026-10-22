@@ -6,3 +6,10 @@
     font-display: swap;
 }
 
+*{
+    cursor: url("src/cursor1.png"), pointer;
+}
+
+.not{
+    cursor: url("src/cursor2.png"), pointer;
+}
