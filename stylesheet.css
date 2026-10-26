@@ -13,3 +13,7 @@
 .not{
     cursor: url("src/cursor2.png"), pointer;
 }
+
+a:hover{
+    color: yellow;
+}
